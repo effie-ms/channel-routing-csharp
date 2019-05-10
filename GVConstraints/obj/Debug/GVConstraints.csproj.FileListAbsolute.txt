@@ -1,0 +1,9 @@
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\bin\Debug\GVConstraints.exe
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\bin\Debug\GVConstraints.exe.config
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\bin\Debug\GVConstraints.pdb
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\obj\Debug\GVConstraints.Form1.resources
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\obj\Debug\GVConstraints.Properties.Resources.resources
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\obj\Debug\GVConstraints.csproj.GenerateResource.Cache
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\obj\Debug\GVConstraints.exe
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\obj\Debug\GVConstraints.pdb
+C:\Users\Елизавета\documents\visual studio 2015\Projects\GVConstraints\GVConstraints\obj\Debug\GVConstraints.csprojResolveAssemblyReference.cache
